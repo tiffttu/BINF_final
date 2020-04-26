@@ -12,8 +12,6 @@ https://github.com/nytimes/covid-19-data
 There are some reported cases/deaths in unknown/unavailable counties areas.
 
 
-## Exploratory Analysis   
-
 ## 1. Feature Selection   
 * Stepwise selection and feature importance from sklearn RandomForest was performed to select top significant variables. Feature importance showed better results, so we selected top 5 important features from cases and deaths separately.      
 
