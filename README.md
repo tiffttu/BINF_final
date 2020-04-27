@@ -22,10 +22,7 @@ Deaths: population_20, icu_bed_occupancy, population, population_65, all_bed_occ
 ## 2.  Model Prediction
 * random forest regression, logistic regression, and gradient boosting regression performed on selected variables.   
 
-
-## 3. Refining features
-* since population related variables have high scores in importance, we decided to try modeling without such related variables to see if the model would perform better. 
-
+## 3. 
 
 ## 4. Future Steps
 * maybe use graphical models to test for confounding factors
