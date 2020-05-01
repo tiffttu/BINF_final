@@ -13,16 +13,14 @@ There are some reported cases/deaths in unknown/unavailable counties areas.
 
 
 ## 1. Feature Selection   
-* Stepwise selection and feature importance from sklearn RandomForest was performed to select top significant variables. Feature importance showed better results, so we selected top 5 important features from cases and deaths separately.      
+* Feature importance from sklearn RandomForest was performed to select top significant variables. Top 5 important features were selected.      
 
-Cases: all_bed_occupancy_rate, peopleinpoverty2018, population_65, medianhouseholdincome, icu_bed_occupancy_rate   
-
-Deaths: population_20, icu_bed_occupancy, population, population_65, all_bed_occupancy_rate.    
 
 ## 2.  Model Prediction
-* random forest regression, logistic regression, and gradient boosting regression performed on selected variables.   
+* random forest regression, logistic regression, and gradient boosting regression performed on selected variables for predicted deaths across counties in the US    
 
-## 3. 
+## 3. Clustering
+*    
 
-## 4. Future Steps
-* maybe use graphical models to test for confounding factors
+## 4. Future Steps 
+* maybe use graphical models to test for confounding factors, latent variables    
