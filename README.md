@@ -1,4 +1,4 @@
-# supervised and unsupervised machine learning methods for county and state level healthcare capacity data in the US in relation to COVID-19 cases 
+# Machine learning methods for county and state level healthcare capacity data in relation to COVID-19 cases 
 
 ## Data Sources:
 USDA Rural-Urban Continuum Codes    
