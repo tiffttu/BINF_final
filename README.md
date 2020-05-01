@@ -17,7 +17,7 @@ There are some reported cases/deaths in unknown/unavailable counties areas.
 
 
 ## 2.  Model Prediction
-* random forest regression, logistic regression, and gradient boosting regression performed on selected variables for predicted deaths across counties in the US    
+* linear regression, lasso regression, random forest regression, and gradient boosting regression are performed on selected variables for predicted deaths across counties in the US.    
 
 ## 3. Clustering
 *    
