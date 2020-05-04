@@ -1,5 +1,7 @@
 # Machine learning methods for county and state level healthcare capacity data in relation to COVID-19 cases 
-
+## Steps to follow while running code:
+First run Data Processing.ipynb and then Regression Model (deaths) _final.ipynb for regression models.
+For clustering model, run Clustering3.ipynb
 ## Data Sources:
 USDA Rural-Urban Continuum Codes    
 https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx   
