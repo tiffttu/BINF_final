@@ -23,4 +23,5 @@ There are some reported cases/deaths in unknown/unavailable counties areas.
 *   Hierarchical Agglomerative Clustering, silhouette analysis 
 
 ## 4. Future Steps 
-* maybe use graphical models to test for confounding factors, latent variables    
+* Use graphical models to test for confounding factors, latent variables 
+* Use other clsutering methods
