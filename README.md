@@ -20,7 +20,7 @@ There are some reported cases/deaths in unknown/unavailable counties areas.
 * linear regression, lasso regression, random forest regression, and gradient boosting regression are performed on selected variables for predicted deaths across counties in the US.    
 
 ## 3. Clustering
-*    
+*   Hierarchical Agglomerative Clustering, silhouette analysis 
 
 ## 4. Future Steps 
 * maybe use graphical models to test for confounding factors, latent variables    
